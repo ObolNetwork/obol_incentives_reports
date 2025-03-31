@@ -13,7 +13,7 @@ Week starting: 2025-03-31
 - **Contribution to incentives conversion rate:** 168,538,067,816,089.625000000000000000
 
 ### Time Range
-From `2025-03-31 00:00:00` to `2025-03-31 00:00:00`
+From `2025-02-24 00:00:00` to `2025-03-31 00:00:00`
 
 ## Incentives Statistics
 - **Total incentive records:** 6109
