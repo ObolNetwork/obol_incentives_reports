@@ -2,8 +2,8 @@
 Week starting: 2025-04-14
 
 ## Data Sources
-- Lido distribution data: `https://raw.githubusercontent.com/lidofinance/dvv-incentivisation/refs/heads/maine/Obol/obol_distribution_by_lp_holders_07-04-2025_14-04-2025.csv`
-- Chorus distribution data: `https://raw.githubusercontent.com/ChorusOne/obol-dvv/refs/heads/main/obol_dv_vault_07-04-2025_13-04-2025.csv`
+- Lido distribution data: `https://raw.githubusercontent.com/lidofinance/dvv-incentivisation/refs/heads/main/Obol/obol_distribution_by_lp_holders_07-04-2025_14-04-2025.csv`
+- Chorus distribution data: `https://raw.githubusercontent.com/ChorusOne/obol-dvv/refs/heads/main/obol_dv_vault_06-04-2025_13-04-2025.csv`
 
 ## Contributions Statistics
 - **Total unique contributors:** 39
@@ -24,17 +24,17 @@ Week starting: 2025-04-14
 From `2025-03-31` to `2025-04-07`
 
 ## Incentives Statistics
-- **Total incentive records:** 6139
+- **Total incentive records:** 2820
 - **Latest contract address:** ``
 
-- **Total incentive amount:** 240,384,615,384,179,810,793,634 wei
-- **Average incentive amount per address:** 39,169,727,127,941,963,776.00 wei
+- **Total incentive amount:** 240,384,615,384,179,837,704,021 wei
+- **Average incentive amount per address:** 85,303,270,186,011,295,744.00 wei
 
 ### Claims Status
 - **Claimed records:** 0
 - **Claimed amount:** 0 wei
-- **Unclaimed records:** 6139
-- **Unclaimed amount:** 240,384,615,384,179,810,793,634 wei
+- **Unclaimed records:** 2820
+- **Unclaimed amount:** 240,384,615,384,179,837,704,021 wei
 
 ## Address Mappings
 - **Static addresses:** 3
