@@ -28,6 +28,7 @@ lido_csm_addresses = lido_csm_contributors_df['address'].unique()
 filtered_incentives_df = incentives_summary_df[incentives_summary_df['address'].isin(lido_csm_addresses)]
 
 # Calculate the sum of the 'amount' column and divide by 10^18
+total_amount_to_lido_csm = 0.0  # Initialize
 if not filtered_incentives_df.empty:
     total_amount_to_lido_csm = filtered_incentives_df['amount'].astype(float).sum() / (10**18)
     print(f"\nTotal Obol distributed to Lido CSM contributors: {total_amount_to_lido_csm}")
@@ -45,6 +46,7 @@ sdvt_addresses = lido_distribution_df[lido_distribution_df['tag'] == 'sdvt']['ad
 # --- Calculate sum for DVV addresses ---
 filtered_incentives_dvv = incentives_summary_df[incentives_summary_df['address'].isin(dvv_addresses)]
 
+total_amount_dvv = 0.0  # Initialize
 if not filtered_incentives_dvv.empty:
     total_amount_dvv = filtered_incentives_dvv['amount'].astype(float).sum() / (10**18)
     print(f"\nTotal Obol distributed to 'dvv' tagged addresses: {total_amount_dvv}")
@@ -54,9 +56,13 @@ else:
 # --- Calculate sum for SDVT addresses ---
 filtered_incentives_sdvt = incentives_summary_df[incentives_summary_df['address'].isin(sdvt_addresses)]
 
+total_amount_sdvt = 0.0  # Initialize
 if not filtered_incentives_sdvt.empty:
     total_amount_sdvt = filtered_incentives_sdvt['amount'].astype(float).sum() / (10**18)
     print(f"\nTotal Obol distributed to 'sdvt' tagged addresses: {total_amount_sdvt}")
 else:
     print("\nNo incentives found for 'sdvt' tagged addresses in the summary.")
 
+# --- Calculate and print the grand total ---
+grand_total = total_amount_to_lido_csm + total_amount_dvv + total_amount_sdvt
+print(f"\nGRAND TOTAL of Obol distributed to Lido CSM, DVV, and SDVT: {grand_total}")
