@@ -3,7 +3,7 @@ Week starting: 2025-05-05
 
 ## Data Sources
 - Lido distribution data: `https://raw.githubusercontent.com/lidofinance/dvv-incentivisation/refs/heads/maine/Obol/obol_distribution_by_lp_holders_28-04-2025_05-05-2025.csv`
-- Chorus distribution data: `https://raw.githubusercontent.com/ChorusOne/obol-dvv/refs/heads/main/obol_dv_vault_28-04-2025_04-05-2025.csv`
+- Chorus distribution data: `https://raw.githubusercontent.com/ChorusOne/obol-dvv/refs/heads/main/obol_dv_vault_27-04-2025_04-05-2025.csv`
 
 ## Contributions Statistics
 - **Total unique contributors:** 40
