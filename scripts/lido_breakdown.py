@@ -66,3 +66,14 @@ else:
 # --- Calculate and print the grand total ---
 grand_total = total_amount_to_lido_csm + total_amount_dvv + total_amount_sdvt
 print(f"\nGRAND TOTAL of Obol distributed to Lido CSM, DVV, and SDVT: {grand_total}")
+
+# --- Calculate and print percentages of the grand total ---
+if grand_total > 0:
+    csm_percentage = (total_amount_to_lido_csm / grand_total) * 100
+    dvv_percentage = (total_amount_dvv / grand_total) * 100
+    sdvt_percentage = (total_amount_sdvt / grand_total) * 100
+    print(f"  Lido CSM percentage: {csm_percentage:.2f}%")
+    print(f"  DVV tagged percentage: {dvv_percentage:.2f}%")
+    print(f"  SDVT tagged percentage: {sdvt_percentage:.2f}%")
+else:
+    print("  Percentages cannot be calculated as the grand total is zero.")
