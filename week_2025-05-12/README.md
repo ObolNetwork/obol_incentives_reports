@@ -7,10 +7,13 @@ Week starting: 2025-05-12
 
 ## Contributions Statistics
 - **Total unique contributors:** 40
-- **Total number of eligible keys:** 0
-- **Number of eligible ETH:** 0
+- **Total number of eligible keys:** 13129
+- **Number of eligible ETH:** 420128
 
 - **Eligible keys breakdown:**
+  - lido_sdvt: 1768
+  - standard: 11289
+  - lido_csm: 72
 
 - **Total contributors:** 103
 - **Total contribution amount:** 1,397,261,730
