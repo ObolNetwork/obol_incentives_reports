@@ -27,7 +27,7 @@ From `2025-03-31` to `2025-04-07`
 - **Total incentive records:** 2994
 - **Latest contract address:** `0xd1dC7aE3d6f3DFEc7F279D76f7d953e44402BcF5`
 
-- **Total incentive amount:** 100,151,553,336,489,221,643,049 wei
+- **Total incentive amount:** 240,384,615,383,863,542,165,884 wei
 - **Average incentive amount per address:** 33,473,112,746,152,816,640.00 wei
 
 ## Address Mappings
