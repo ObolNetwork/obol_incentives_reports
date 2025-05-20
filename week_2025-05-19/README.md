@@ -30,12 +30,6 @@ From `2025-03-31` to `2025-04-07`
 - **Total incentive amount:** 100,151,553,336,489,221,643,049 wei
 - **Average incentive amount per address:** 33,473,112,746,152,816,640.00 wei
 
-### Claims Status
-- **Claimed records:** 99
-- **Claimed amount:** 11,631,204,951,827,886,686,208 wei
-- **Unclaimed records:** 2895
-- **Unclaimed amount:** 88,520,348,384,661,334,956,841 wei
-
 ## Address Mappings
 - **Static addresses:** 3
 - **Swapped addresses:** 4
