@@ -24,17 +24,17 @@ Week starting: 2025-05-19
 From `2025-03-31` to `2025-04-07`
 
 ## Incentives Statistics
-- **Total incentive records:** 3005
-- **Latest contract address:** `0x698567F2d25d25F3fd9D2aE9304391CB6C1486d2`
+- **Total incentive records:** 5997
+- **Latest contract address:** `0xd1dC7aE3d6f3DFEc7F279D76f7d953e44402BcF5`
 
-- **Total incentive amount:** 240,248,829,173,469,769,439,685 wei
-- **Average incentive amount per address:** 80,002,940,117,705,555,968.00 wei
+- **Total incentive amount:** 340,400,382,509,958,991,082,734 wei
+- **Average incentive amount per address:** 56,780,714,346,948,952,064.00 wei
 
 ### Claims Status
 - **Claimed records:** 0
 - **Claimed amount:** 0 wei
-- **Unclaimed records:** 3005
-- **Unclaimed amount:** 240,248,829,173,469,769,439,685 wei
+- **Unclaimed records:** 5997
+- **Unclaimed amount:** 340,400,382,509,958,991,082,734 wei
 
 ## Address Mappings
 - **Static addresses:** 3
