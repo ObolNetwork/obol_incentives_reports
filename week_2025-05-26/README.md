@@ -21,7 +21,7 @@ Week starting: 2025-05-26
 - **Contribution to incentives conversion rate:** 151,860,927,011,838.375000000000000000
 
 ### Time Range
-From `2025-03-31` to `2025-04-07`
+From `2025-05-19` to `2025-05-26`
 
 ## Incentives Statistics
 - **Total incentive records:** 2886
@@ -29,14 +29,6 @@ From `2025-03-31` to `2025-04-07`
 
 - **Total incentive amount:** 393,641,634,471,970,679,291,106 wei
 - **Average incentive amount per address:** 136,491,551,481,265,831,936.00 wei
-
-### Claims Status
-- **Total addresses with allocated incentives:** 2884
-- **Addresses that have claimed:** 164
-- **Addresses that have not claimed:** 2722
-- **Claimed amount:** 311,028,566,706,210,626,912,960 wei
-- **Unclaimed amount:** 82,613,067,765,760,052,378,146 wei
-- **Claim rate:** 5.7%
 
 ## Address Mappings
 - **Static addresses:** 3
