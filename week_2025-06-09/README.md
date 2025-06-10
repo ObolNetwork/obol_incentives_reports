@@ -34,9 +34,6 @@ Week `2025-06-09`
 - **Total addresses with allocated incentives:** 3395
 - **Addresses that have claimed:** 444
 - **Addresses that have not claimed:** 2953
-- **Claimed amount:** 610,658,225,835,169,404,276,406 wei
-- **Unclaimed amount:** 83,162,863,644,335,281,601,489 wei
-- **Claim rate:** 13.1%
 
 ## Address Mappings
 - **Static addresses:** 4
