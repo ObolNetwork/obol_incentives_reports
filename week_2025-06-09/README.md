@@ -24,16 +24,11 @@ Week starting: 2025-06-09
 Week `2025-06-09`
 
 ## Incentives Statistics
-- **Total incentive records:** 3397
+- **Total incentive records:** 3104
 - **Latest contract address:** `0x7264E75404F9D5888acAa89f1209e4B9869b58a8`
 
-- **Total incentive amount:** 693,821,089,479,504,685,877,895 wei
-- **Average incentive amount per address:** 204,365,563,911,488,864,256.00 wei
-
-### Claims Status
-- **Total addresses with allocated incentives:** 3395
-- **Addresses that have claimed:** 444
-- **Addresses that have not claimed:** 2953
+- **Total incentive amount:** 240,384,615,383,781,927,998,914 wei
+- **Average incentive amount per address:** 77,493,428,556,989,661,184.00 wei
 
 ## Address Mappings
 - **Static addresses:** 4
