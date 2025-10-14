@@ -11,11 +11,11 @@ Week starting: 2025-10-13
 - **Number of eligible ETH:** 522304
 
 - **Eligible keys breakdown:**
-  - lido_curated_total: 100
-  - lido_curated_0x16F35F4D2C87A1FD58A1FFA20609DDF9F62E67698D8398F0297F2F97B800C1DF: 100
   - lido_sdvt: 4200
   - standard: 11870
+  - lido_curated_0x16F35F4D2C87A1FD58A1FFA20609DDF9F62E67698D8398F0297F2F97B800C1DF: 100
   - lido_csm: 52
+  - lido_curated_total: 100
 
 - **Total contributors:** 98
 - **Total contribution amount:** 1,638,520,374
