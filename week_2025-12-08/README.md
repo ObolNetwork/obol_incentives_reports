@@ -6,30 +6,32 @@ Week starting: 2025-12-08
 - Chorus distribution data: `https://raw.githubusercontent.com/ChorusOne/obol-dvv/refs/heads/main/obol_dv_vault_01-12-2025_07-12-2025.csv`
 
 ## Contributions Statistics
-- **Total unique contributors:** 23
-- **Total number of eligible keys:** 14164
-- **Number of eligible ETH:** 453248
+- **Total unique contributors:** 3
+- **Total number of eligible keys:** 15264
+- **Number of eligible ETH:** 488448
 
 - **Eligible keys breakdown:**
-  - lido_curated_total: 0
+  - lido_curated_0xdd49c9566f96ade756c5d6d21a094d4808815832b332405b9c77613b97971f4c: 1000
+  - lido_curated_0x16F35F4D2C87A1FD58A1FFA20609DDF9F62E67698D8398F0297F2F97B800C1DF: 100
+  - lido_curated_total: 1100
   - standard: 9912
   - lido_sdvt: 4200
   - lido_csm: 52
 
-- **Total contributors:** 90
-- **Total contribution amount:** 1,669,133,742
-- **Average contributions per contributor:** 3.91
-- **Contribution to incentives conversion rate:** 144,017,587,901,201.000000000000000000
+- **Total contributors:** 5
+- **Total contribution amount:** 192,790,601
+- **Average contributions per contributor:** 1.67
+- **Contribution to incentives conversion rate:** 1,246,868,953,744,690.750000000000000000
 
 ### Time Range
 Week `2025-12-08`
 
 ## Incentives Statistics
-- **Total incentive records:** 3966
-- **Latest contract address:** `0x41A2370382B59ED2E5b1ab4d92C6672a6714bE0C`
+- **Total incentive records:** 3965
+- **Latest contract address:** `0xd296b0C89a7Afb75dDd2f009445867f6718e87c0`
 
-- **Total incentive amount:** 244,946,393,656,402,439,525,776 wei
-- **Average incentive amount per address:** 61,777,148,463,153,192,960.00 wei
+- **Total incentive amount:** 259,752,411,097,519,546,984,524 wei
+- **Average incentive amount per address:** 65,527,853,455,479,201,792.00 wei
 
 ## Missed Rewards Refund
 - Missed rewards refund file is available in this report
