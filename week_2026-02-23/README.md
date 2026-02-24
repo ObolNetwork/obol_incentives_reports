@@ -7,16 +7,10 @@ Week starting: 2026-02-23
 
 ## Contributions Statistics
 - **Total unique contributors:** 25
-- **Total number of eligible keys:** 14422
-- **Number of eligible ETH:** 461504
+- **Total number of eligible keys:** 0
+- **Number of eligible ETH:** 0
 
 - **Eligible keys breakdown:**
-  - lido_curated_0xdd49c9566f96ade756c5d6d21a094d4808815832b332405b9c77613b97971f4c: 1000
-  - lido_csm: 52
-  - lido_sdvt: 4100
-  - lido_curated_0x16F35F4D2C87A1FD58A1FFA20609DDF9F62E67698D8398F0297F2F97B800C1DF: 100
-  - standard: 9170
-  - lido_curated_total: 1100
 
 - **Total contributors:** 89
 - **Total contribution amount:** 1,781,410,018
@@ -27,9 +21,11 @@ Week starting: 2026-02-23
 Week `2026-02-23`
 
 ## Incentives Statistics
-- **Total incentive records:** 25
-- **Total incentive amount:** 0 wei
-- **Average incentive amount per address:** nan wei
+- **Total incentive records:** 2849
+- **Latest contract address:** `0x75aEFd38Bc5e1Bcc25FfF1c72Ce02Ab42C7CBDbc`
+
+- **Total incentive amount:** 240,384,615,385,343,294,214,061 wei
+- **Average incentive amount per address:** 84,434,357,353,474,998,272.00 wei
 
 ## Address Mappings
 - **Static addresses:** 3
